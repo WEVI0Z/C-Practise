@@ -1,0 +1,6 @@
+/home/wevioz/Projects/C# Practise/Day-1/task-1/task-1/task-3/obj/x86/Debug/task-3.csproj.AssemblyReference.cache
+/home/wevioz/Projects/C# Practise/Day-1/task-1/task-1/task-3/obj/x86/Debug/task-3.csproj.CoreCompileInputs.cache
+/home/wevioz/Projects/C# Practise/Day-1/task-1/task-1/task-3/bin/Debug/task-3.exe
+/home/wevioz/Projects/C# Practise/Day-1/task-1/task-1/task-3/bin/Debug/task-3.pdb
+/home/wevioz/Projects/C# Practise/Day-1/task-1/task-1/task-3/obj/x86/Debug/task-3.exe
+/home/wevioz/Projects/C# Practise/Day-1/task-1/task-1/task-3/obj/x86/Debug/task-3.pdb
