@@ -38,7 +38,11 @@ namespace task1
         }
         public static void Main(string[] args)
         {
+            TwoDimArr arr = new TwoDimArr(new int[][] { new int[] { 0, 1, 2 }, new int[] { 3, 4, 5 } });
 
+            int[][] additionalArr = new int[][] { new int[] { 0, 1, 2 }, new int[] { 3, 4, 5 } };
+
+            Console.WriteLine(arr.multWithArr(additionalArr)[0][2]);
         }
     }
 }
