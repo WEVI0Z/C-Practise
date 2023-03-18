@@ -1,19 +1,22 @@
-﻿<Properties StartupConfiguration="{692FCF7D-874B-4F6E-AD7E-18B279AD2605}|Default">
+﻿<Properties StartupConfiguration="{56FDE98E-7EB5-4EB1-A80D-C8405F88C802}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="task-1/Program.cs">
     <Files>
-      <File FileName="task-1/Program.cs" Line="46" Column="10" />
+      <File FileName="task-1/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="day-3" expanded="True" selected="True" />
+          <Node name="day-4" expanded="True">
+            <Node name="task-1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.task-1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.task-2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.task-1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
