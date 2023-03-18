@@ -6,7 +6,7 @@ namespace task1
     {
         public static void Main(string[] args)
         {
-            double x = 1;
+            double x = 2;
 
             try
             {
@@ -18,11 +18,11 @@ namespace task1
             }
             catch(DivideByZeroException)
             {
-                Console.log("Devide by zero exception");
+                Console.WriteLine("Devide by zero exception");
             }
             catch (FormatException)
             {
-                Console.log("Format exception");
+                Console.WriteLine("Format exception");
             }
         }
     }
