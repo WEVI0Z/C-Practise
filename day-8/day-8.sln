@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-1", "task-1\task-1.csproj", "{876049CB-E2C1-4FD8-A6DE-9BE270E252EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-2", "task-2\task-2.csproj", "{BD49868E-898A-48C4-9B36-BFD8958BDC09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{876049CB-E2C1-4FD8-A6DE-9BE270E252EE}.Debug|x86.Build.0 = Debug|x86
 		{876049CB-E2C1-4FD8-A6DE-9BE270E252EE}.Release|x86.ActiveCfg = Release|x86
 		{876049CB-E2C1-4FD8-A6DE-9BE270E252EE}.Release|x86.Build.0 = Release|x86
+		{BD49868E-898A-48C4-9B36-BFD8958BDC09}.Debug|x86.ActiveCfg = Debug|x86
+		{BD49868E-898A-48C4-9B36-BFD8958BDC09}.Debug|x86.Build.0 = Debug|x86
+		{BD49868E-898A-48C4-9B36-BFD8958BDC09}.Release|x86.ActiveCfg = Release|x86
+		{BD49868E-898A-48C4-9B36-BFD8958BDC09}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
