@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{1390CB43-9477-4701-AB74-BA33E019ED1D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="task-3/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="task-1/Program.cs">
     <Files>
       <File FileName="task-1/Program.cs" Line="8" Column="10" />
       <File FileName="task-2/Program.cs" Line="16" Column="18" />
-      <File FileName="task-3/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,7 +21,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.task-1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.task-2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.task-3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task-3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
