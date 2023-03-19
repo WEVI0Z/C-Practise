@@ -1,0 +1,5 @@
+/home/wevioz/Projects/C-Practise/day-5/task-3/bin/Debug/task-3.exe
+/home/wevioz/Projects/C-Practise/day-5/task-3/bin/Debug/task-3.pdb
+/home/wevioz/Projects/C-Practise/day-5/task-3/obj/x86/Debug/task-3.csproj.CoreCompileInputs.cache
+/home/wevioz/Projects/C-Practise/day-5/task-3/obj/x86/Debug/task-3.exe
+/home/wevioz/Projects/C-Practise/day-5/task-3/obj/x86/Debug/task-3.pdb
