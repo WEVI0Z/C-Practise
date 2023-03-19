@@ -1,15 +1,18 @@
-﻿<Properties StartupConfiguration="{8638F9FA-6E65-4BAB-9B70-8C22949613D2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="task-3/Program.cs">
+﻿<Properties StartupConfiguration="{23EE7041-AD51-4CE4-8AE0-0EB00094E1F1}|Default">
+  <MonoDevelop.Ide.ItemProperties.task-4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task-4/Program.cs">
     <Files>
       <File FileName="task-1/Program.cs" Line="17" Column="36" />
-      <File FileName="task-3/Program.cs" Line="9" Column="27" />
+      <File FileName="task-3/Program.cs" Line="38" Column="36" />
+      <File FileName="task-4/Program.cs" Line="18" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="day-5" expanded="True">
             <Node name="task-1" expanded="True" />
-            <Node name="task-3" expanded="True" selected="True" />
+            <Node name="task-3" expanded="True" />
+            <Node name="task-4" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -17,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.task-1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.task-3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task-3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
