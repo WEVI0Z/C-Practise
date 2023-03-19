@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-3", "task-3\task-3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-4", "task-4\task-4.csproj", "{23EE7041-AD51-4CE4-8AE0-0EB00094E1F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-5", "task-5\task-5.csproj", "{1AEFE801-97FD-4601-89E1-0496DEFD2FC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{23EE7041-AD51-4CE4-8AE0-0EB00094E1F1}.Debug|x86.Build.0 = Debug|x86
 		{23EE7041-AD51-4CE4-8AE0-0EB00094E1F1}.Release|x86.ActiveCfg = Release|x86
 		{23EE7041-AD51-4CE4-8AE0-0EB00094E1F1}.Release|x86.Build.0 = Release|x86
+		{1AEFE801-97FD-4601-89E1-0496DEFD2FC1}.Debug|x86.ActiveCfg = Debug|x86
+		{1AEFE801-97FD-4601-89E1-0496DEFD2FC1}.Debug|x86.Build.0 = Debug|x86
+		{1AEFE801-97FD-4601-89E1-0496DEFD2FC1}.Release|x86.ActiveCfg = Release|x86
+		{1AEFE801-97FD-4601-89E1-0496DEFD2FC1}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
